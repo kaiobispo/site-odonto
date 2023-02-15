@@ -66,7 +66,7 @@ btn.addEventListener('click', function(){
       res.innerText = `Sua consulta não será marcada pois você é de menor`
       res.style.background = 'red'
       res.style.border = '1px solid black'
-      res.style.width = '500px'
+      res.style.width = '350px'
       res.style.textAlign = 'center'
       res.style.margin = '20px auto'
       res.style.padding = '20px'
