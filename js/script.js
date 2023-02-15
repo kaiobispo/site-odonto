@@ -47,7 +47,7 @@ btn.addEventListener('click', function(){
     res.innerText = `olá ${nome.value} sua Consulta está marcada para as ${hora} horas com o(a) ${doutor.value} e a consulta ${tipo.value} verifique seu email e confirme o código.`
     res.style.background = '#3CB371'
     res.style.border = '1px solid black'
-    res.style.width = '500px'
+    res.style.width = '350px'
     res.style.textAlign = 'center'
     res.style.margin = '20px auto'
     res.style.padding = '20px'
